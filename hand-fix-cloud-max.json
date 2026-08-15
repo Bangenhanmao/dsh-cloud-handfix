@@ -257,7 +257,7 @@
         "Node name for S&R": "UNETLoader"
       },
       "widgets_values": [
-        "flux1-fill-dev.safetensors",
+        "black-forest-labs_FLUX.1-Fill-dev_flux1-fill-dev_fp8.safetensors",
         "default"
       ]
     },
@@ -326,7 +326,7 @@
         "Node name for S&R": "VAELoader"
       },
       "widgets_values": [
-        "ae.safetensors"
+        "flux-vae-bf16.safetensors"
       ]
     },
     {
